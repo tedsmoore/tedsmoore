@@ -2,8 +2,6 @@
 
 I'm a mathematician-turned-software developer currently pursing an M.S. in Data Science part time at NJIT. 
 
-I am looking for projects to collaborate on, so hit me up >> tedsmoore@gmail.com
-
 
 <!--
 **tedsmoore/tedsmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
