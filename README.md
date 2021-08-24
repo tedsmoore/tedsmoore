@@ -1,6 +1,6 @@
 ### hello and welcome! 👋
 
-I'm a mathematician-turned-software developer currently pursing an M.S. in Data Science part time at NJIT. 
+I'm a mathematician-turned-software developer currently pursing an M.S. in Computer Science part time at NJIT. 
 
 
 <!--
