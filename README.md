@@ -1,6 +1,6 @@
 ### hello and welcome! 👋
 
-I'm a mathematician-turned-software developer currently pursing an M.S. in Computer Science part time at NJIT. 
+I'm a software engineer with a proclivity for working with data. I'm currently building a cheaper, cleaner, more resilient grid at [David Energy](https://davidenergy.com).
 
 
 <!--
